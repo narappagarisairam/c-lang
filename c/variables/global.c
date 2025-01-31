@@ -1,5 +1,5 @@
 #include<stdio.h>
-int x=10;
+int x=10;//global variable
 void fun(){
 	printf("\n %d",x);
 	x++;
